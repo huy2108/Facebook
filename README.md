@@ -1,4 +1,4 @@
 # WELCOME TO MY WEBSITE
 
 ## HOMEPAGE
-![HOME](https://github.com/username/repo-name/blob/main/image-file.jpg)
+![HOME](https://github.com/huy2108/Facebook/blob/main/image.png)
